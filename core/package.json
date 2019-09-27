@@ -1,5 +1,5 @@
 {
-  "name": "packages",
+  "name": "@dinify/packages",
   "version": "0.1.0",
   "description": "Container for packages",
   "main": "index.js",
