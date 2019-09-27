@@ -1,0 +1,25 @@
+{
+  "name": "packages",
+  "version": "0.1.0",
+  "description": "Container for packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinify/packages.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Matt Homolya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinify/packages/issues"
+  },
+  "homepage": "https://github.com/dinify/packages#readme",
+  "dependencies": {
+    "@dinify/core": "git+ssh://git@gitlab.com:dinify/staging/core.git"
+  }
+}
