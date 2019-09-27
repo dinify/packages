@@ -1,6 +1,6 @@
 {
   "name": "@dinify/core",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "core package containing generalized functions, classes, types, and interfaces",
   "main": "index.js",
   "scripts": {
